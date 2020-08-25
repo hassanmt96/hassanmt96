@@ -1,16 +1,28 @@
-### Hi there 👋
+ Hello there 👋
 
-<!--
-**hassanmt96/hassanmt96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on building a custom API for music streaming services like Spotify and SoundCloud
+
+
+- 🌱 I’m currently learning algorithms and data structures with linkedlists
+
+
+- 👯 I’m looking to collaborate on projects with bigger more customizable API's
+- 🤔 I’m looking for help with unity and C# heavy projects 
+
+
+- 📫 How to reach me: 
+
+Add me on LinkedIn:
+
+https://www.linkedin.com/in/hassan-tariq-1382b112b/
+
+
+- 😄 Pronouns: (he/him/his)
+
+
+
+
+
