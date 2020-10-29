@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on building a custom API for music streaming services like Spotify and SoundCloud
 
 
-- 🌱 I’m currently learning algorithms and data structures with linkedlists
+- 🌱 I’m currently working on RESTful API'S applications with secure authorization methods.
 
 
 - 👯 I’m looking to collaborate on projects with bigger more customizable API's
