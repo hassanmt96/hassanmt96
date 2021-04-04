@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🌱 &nbsp; Learning more about Cloud, Microservices, & optimizing frontend and backend technologies.
-- 🎤 &nbsp;  Programmer by day and musician by night 
+- 👾 &nbsp;  Programmer by day and musician by night. 🎸
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
