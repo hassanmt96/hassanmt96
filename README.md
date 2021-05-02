@@ -44,9 +44,11 @@
 
 <br/>
 
-<a href="https://github.com/hassanmt96">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hassanmt96&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanmt96&theme=buefy&layout=compact" />
+![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassanmt96&show_icons=true&theme=radical)
+ <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanmt96&show_icons=true&theme=radical" />
+
+<br />
+
 </a>
 
 <br/>
