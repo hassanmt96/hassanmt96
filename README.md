@@ -45,7 +45,6 @@
 <br/>
 
 ![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassanmt96&show_icons=true&theme=radical)
- <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanmt96&show_icons=true&theme=radical" />
 
 <br />
 
